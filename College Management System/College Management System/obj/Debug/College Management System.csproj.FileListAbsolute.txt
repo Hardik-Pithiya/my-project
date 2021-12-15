@@ -1,0 +1,42 @@
+E:\College Management System\College Management System\bin\Debug\College Management System.exe.config
+E:\College Management System\College Management System\bin\Debug\College Management System.exe
+E:\College Management System\College Management System\bin\Debug\College Management System.pdb
+E:\College Management System\College Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\College Management System\College Management System\bin\Debug\Guna.UI.dll
+E:\College Management System\College Management System\bin\Debug\Bunifu.Core.dll
+E:\College Management System\College Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\College Management System\College Management System\obj\Debug\College Management System.csprojResolveAssemblyReference.cache
+E:\College Management System\College Management System\obj\Debug\College_Management_System.Form1.resources
+E:\College Management System\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+E:\College Management System\College Management System\obj\Debug\College Management System.csproj.GenerateResource.Cache
+E:\College Management System\College Management System\obj\Debug\College Management System.exe
+E:\College Management System\College Management System\obj\Debug\College Management System.pdb
+E:\College Management System\College Management System\obj\Debug\College_Management_System.Login.resources
+E:\College Management System\College Management System\obj\Debug\College_Management_System.MainForm.resources
+E:\College Management System\College Management System\obj\Debug\College_Management_System.User.resources
+E:\College Management System\College Management System\obj\Debug\College_Management_System.Student.resources
+E:\College Management System\College Management System\obj\Debug\College_Management_System.Department.resources
+E:\College Management System\College Management System\obj\Debug\College_Management_System.Fees.resources
+E:\College Management System\College Management System\obj\Debug\College_Management_System.Teacher.resources
+E:\College Management System\College Management System\obj\Debug\College_Management_System.Dashbord.resources
+E:\Project\College Management System\College Management System\bin\Debug\College Management System.exe.config
+E:\Project\College Management System\College Management System\obj\Debug\College Management System.exe
+E:\Project\College Management System\College Management System\obj\Debug\College Management System.pdb
+E:\Project\College Management System\College Management System\bin\Debug\College Management System.exe
+E:\Project\College Management System\College Management System\bin\Debug\College Management System.pdb
+E:\Project\College Management System\College Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Project\College Management System\College Management System\bin\Debug\Guna.UI.dll
+E:\Project\College Management System\College Management System\bin\Debug\Bunifu.Core.dll
+E:\Project\College Management System\College Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\Project\College Management System\College Management System\obj\Debug\College Management System.csprojResolveAssemblyReference.cache
+E:\Project\College Management System\College Management System\obj\Debug\College_Management_System.Dashbord.resources
+E:\Project\College Management System\College Management System\obj\Debug\College_Management_System.Department.resources
+E:\Project\College Management System\College Management System\obj\Debug\College_Management_System.Fees.resources
+E:\Project\College Management System\College Management System\obj\Debug\College_Management_System.Form1.resources
+E:\Project\College Management System\College Management System\obj\Debug\College_Management_System.Login.resources
+E:\Project\College Management System\College Management System\obj\Debug\College_Management_System.MainForm.resources
+E:\Project\College Management System\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+E:\Project\College Management System\College Management System\obj\Debug\College_Management_System.Student.resources
+E:\Project\College Management System\College Management System\obj\Debug\College_Management_System.Teacher.resources
+E:\Project\College Management System\College Management System\obj\Debug\College_Management_System.User.resources
+E:\Project\College Management System\College Management System\obj\Debug\College Management System.csproj.GenerateResource.Cache
